@@ -1,0 +1,1 @@
+Bay gio la <?php echo $tenbiensedung; ?>
